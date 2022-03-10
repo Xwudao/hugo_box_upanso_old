@@ -1,0 +1,16 @@
+baseURL = "https://upanso.com/"
+languageCode = "zh-CN"
+title = "无道杂货铺 - 各类优秀网站导航"
+# theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = "upanso"
+[params]
+  author = "upanso"
+  keywords = "离线下载,软件,offline download,downloader,磁力APP,磁力软件,APP,老司机,福利,离线下载,软件,offline download,downloader,greasemonkey,greasefork,sleazyfork,sleazy fork,油猴脚本,云盘搜索,网盘搜索,百度网盘,云盘精灵,盘搜搜,盘多多,在线电影,在线影视,在线电视,影视APP,在线影视,磁力影视,种子搜索,磁力种子,搜索引擎,BT搜索引擎,磁力搜索引擎,search engine,搜索引擎,无损音乐,电子书,ebook,资源采集站"
+  description = "无道杂货铺，提供各种网盘搜索、磁力搜索的网址导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false

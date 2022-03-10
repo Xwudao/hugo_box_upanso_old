@@ -1,0 +1,55 @@
+- taxonomy: 网盘搜索
+  icon: fa-star
+  nickname: disk_search
+
+#- taxonomy: 常用推荐
+#  icon: fa-star
+#  nickname: common_use
+
+- taxonomy: 影视相关
+  icon: fa-file-video-o
+  nickname: video
+
+- taxonomy: 软件游戏
+  icon: fa-gamepad
+  nickname: soft
+
+- taxonomy: 工具相关
+  icon: fa-cube
+  nickname: tool
+
+- taxonomy: 学习相关
+  icon: fa-child
+  nickname: study
+
+- taxonomy: 办公相关
+  icon: fa-file-word-o
+  nickname: office
+
+- taxonomy: 音乐相关
+  icon: fa-music
+  nickname: music
+
+- taxonomy: 书籍相关
+  icon: fa-book
+  nickname: book
+
+- taxonomy: 漫画相关
+  icon: fa-book
+  nickname: anime
+
+- taxonomy: 图片相关
+  icon: fa-picture-o
+  nickname: image
+
+- taxonomy: 图片工具
+  icon: fa-image
+  nickname: image_tool
+
+- taxonomy: PDF工具
+  icon: fa-file-pdf-o
+  nickname: pdf_tool
+
+- taxonomy: 区块链
+  icon: fa-chain-broken
+  nickname: block_chain
